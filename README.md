@@ -1,1 +1,1 @@
-"# agancy_template" 
+# agancy_template
